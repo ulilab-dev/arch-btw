@@ -7,6 +7,8 @@ sudo pacman -Sy networkmanager \
   htop \
   btop \
   fish \
+  starship \
+  eza \
   power-profiles-daemon \
   dolphin \
   ark \
