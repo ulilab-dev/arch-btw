@@ -21,5 +21,5 @@ sudo pacman -Sy networkmanager \
   lib32-opencl-nvidia \
   lib32-nvidia-utils \
   nvidia-settings \
-  cmus \
+  baobab \
   micro
